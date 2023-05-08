@@ -19,5 +19,5 @@ function loadJS(FILE_URL, async = true) {
 }
 
 window.addEventListener("load", function () {
-  loadJS("https://pigak.com/js/ubg235_server_v1_0.js", true);
+  loadJS("https://driftboss911.github.io/js/ubg235_server_v1_0.js", true);
 });
