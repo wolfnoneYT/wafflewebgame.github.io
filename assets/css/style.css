@@ -2037,7 +2037,9 @@ span.is-active {
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
     z-index: -1;
 }
-
+.ads-footer-top-area {
+    margin: 0 auto;
+}
 .footer-top-area {
     padding: 70px 0 100px;
     position: relative;
